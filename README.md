@@ -98,7 +98,7 @@ Experienced DevOps Engineer (3+ yrs) with a passion for automation and building 
 <br>
 
 <a href="http://www.github.com/jashkv">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashkv&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jashkv's GitHub stats"  width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jashkv&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jashkv's GitHub stats"  width="45%"/>
 </a>
 
 <a href="http://www.github.com/jashkv">
