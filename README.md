@@ -97,13 +97,12 @@ Experienced DevOps Engineer (3+ yrs) with a passion for automation and building 
 <b>My GitHub Stats</b>
 <br>
 
-<b>My GitHub Stats</b>
-<br>
-
+<a href="http://www.github.com/jashkv" style="text-align: right;">  <img src="https://github-readme-stats.vercel.app/api?username=jashkv&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jashkv's GitHub stats">
+</a>
 <a href="http://www.github.com/jashkv">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashkv&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="jashkv's GitHub stats" href="http://www.github.com/jashkv">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashkv&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="jashkv's GitHub streak stats">
 </a>
+
 
 <!-- graph -->
 
