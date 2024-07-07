@@ -106,5 +106,5 @@ Experienced DevOps Engineer (3+ yrs) with a passion for automation and building 
 
 <!-- graph -->
 
-<a href="https://github.com/jashkv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashkv&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jashkv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashkv&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" href="https://github.com/jashkv" align="right"><img src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Developer" /></a>
 
