@@ -9,7 +9,7 @@ Experienced DevOps Engineer (3+ yrs) with a passion for automation and building 
 
 - 👯 I’m looking to collaborate on **Cloud DevOps Project**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Container Orchestration**
 
 - 👨‍💻 All of my projects are available at [https://jashkv.github.io/](https://jashkv.github.io/)
 
@@ -17,7 +17,7 @@ Experienced DevOps Engineer (3+ yrs) with a passion for automation and building 
 
 - 💬 Ask me about **DevOps, Cloud, Automation, CI/CD**
 
-- 📫 How to reach me **jashkv1999@gmail.com**
+- 📫 How to reach me **jashkv1999@outlook.com**
 
 - 📄 Know about my experiences [https://linktr.ee/jashkv](https://linktr.ee/jashkv)
 
